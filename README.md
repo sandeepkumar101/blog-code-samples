@@ -1,1 +1,1 @@
-vinsguru-blog-code-samples
+blog-code-samples
